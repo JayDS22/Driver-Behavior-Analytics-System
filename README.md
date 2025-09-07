@@ -1,11 +1,3 @@
-# Driver Behavior Analytics System - COMPLETE Repository
-# All files included for production deployment
-
-# ========================================
-# README.md
-# ========================================
-
-"""
 # Driver Behavior Analytics System
 
 A comprehensive analytics system for driver behavior analysis using survival analysis, Bayesian modeling, and real-time risk assessment.
